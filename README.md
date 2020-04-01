@@ -1,3 +1,5 @@
+Issue: https://github.com/microsoft/TypeScript/issues/37738
+
 @ts-ignore comments in TSX are no longer suppressing errors on the following line.
 
 ```
