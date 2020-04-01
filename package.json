@@ -5,7 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/react": "^16.9.31",
-    "typescript": "^3.9.0-dev.20200330"
+    "typescript": "~3.8.0"
   },
   "dependencies": {
     "react": "^16.13.1"
