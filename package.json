@@ -1,0 +1,13 @@
+{
+  "name": "ts-39-issue-ts-ignore-tsx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.31",
+    "typescript": "^3.9.0-dev.20200330"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
