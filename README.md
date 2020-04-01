@@ -11,7 +11,7 @@ Issue: https://github.com/microsoft/TypeScript/issues/37738
 Error occurs in TypeScript 3.9 but not 3.8
 
 ```
-$ npx tsc -p tsconfig.json 
+$ npx tsc
 src/MyOtherComponent.tsx:12:25 - error TS2322: Type 'number' is not assignable to type 'string'.
 
 12       <MyOtherComponent prop={123} />
